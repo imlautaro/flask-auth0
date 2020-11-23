@@ -2,6 +2,10 @@
 
 An easy way to protect your API with Auth0
 
+## Installation
+
+`pip install git+https://github.com/imlautaro/flask-auth0.git#egg=flask_auth0`
+
 ## Usage
 
 ```python
