@@ -14,7 +14,7 @@ setup(
     author='Lautaro Pereyra',
     author_email='dev.lautaropereyra@gmail.com',
     description='An easy way to protect your API with Auth0',
-    py_modules=['flask-auth0'],
+    py_modules=['flask_auth0'],
     zip_safe=False,
     include_package_data=True,
     platforms='any',
